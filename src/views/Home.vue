@@ -30,7 +30,7 @@ export default {
         { v: "B", t: "Busan" },
       ],
       region: "B",
-      tableShow: false,
+      tableShow: true,
     };
   },
   watch: {
